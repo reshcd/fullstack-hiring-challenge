@@ -15,9 +15,9 @@ Your task is to create a simple CRUD application using Django. We estimate this 
 * Change email or password
 * Delete account
 
-#### Requirements
-
 ## Back-end
+You should develop the back-end using Django. APIs can be served through Django Rest Framework, feel free to choose what you think it's better. Your Django App should be able to receive requests to support all the requirements.
+
 
 
 
@@ -31,7 +31,11 @@ The first screen is a "signup modal" type of screen. The user should be able to 
 This page should display the user email and password (with \*). Also, users should have the ability to change the email or password and delete their account. This screen can't be visible for non logged-in users. 
 
 ## Optional tasks
-
+* Validate user input on the browser and on the server
+* Use PostgreSQL
+* Add end-to-end tests
+* Apply CSRF Protection
+* Implement Security patterns
 
 ## How your exercise submission will be ranked
 
