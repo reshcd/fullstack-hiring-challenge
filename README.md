@@ -6,24 +6,31 @@
 
 ## Your Task
 
-Your task is to create a registration form using Django. We estimate this will take 4-5 hours for a person who is familiar with the technology stack. The application skeleton and instructions are well prepared, but expect extra 5-8 hours if you are not familiar with Django or React. The technology stack is the same that you will be using in when working us.
+Your task is to create a simple CRUD application using Django. We estimate this will take 4-5 hours for a person who is familiar with the technology stack. The application skeleton and instructions are well prepared, but expect extra 5-8 hours if you are not familiar with Django or React. The technology stack is the same that you will be using in when working us.
 
 #### Functional requirements
 * Create account
 * Login
 * Logout
 * Change email or password
+* Delete account
 
 #### Requirements
 
-### Back-end
+## Back-end
 
 
 
-### Front-end
-You can develop frond-end using React or native Django Template Render.
+## Front-end
+You should develop the frond-end using React or Django Templates. This application must consume the API created using Django.
 
+#### Sign-up / Sign-in screen
+The first screen is a "signup modal" type of screen. The user should be able to create an account and login using an email and password. [Reference Dropbox](https://www.dropbox.com) [Reference Dribble](https://dribbble.com/session/new)
 
+#### User info screen
+This page should display the user email and password (with \*). Also, users should have the ability to change the email or password and delete their account. This screen can't be visible for non logged-in users. 
+
+## Optional tasks
 
 
 ## How your exercise submission will be ranked
