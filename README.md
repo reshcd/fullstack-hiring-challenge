@@ -18,11 +18,11 @@ Your task is to create a simple application using Django. We estimate this will 
 ## Back-end
 You should develop the back-end using Django. APIs can be served through Django Rest Framework, feel free to choose what you think it's better. Your Django App should be able to receive requests to support all the requirements.
 
-It's important to you follow the REST principles, respecting HTTP protocol and using properly return codes and HTTP methods. Also, all communications should use JSON.
+It's important to you follow the REST principles, respecting HTTP protocol and using properly return codes and HTTP methods.  Also, all communications should be done using JSON.
 
 
 ## Front-end
-You should develop the frond-end using React or Django Templates. This application must consume the API created using Django.
+You should develop the frond-end using React or Django Templates. This application must consume the API you created using Django
 
 #### Sign-up / Sign-in screen
 The first screen is a "signup modal" type of screen. The user should be able to create an account and login using an email and password. [Reference Dropbox](https://www.dropbox.com) [Reference Dribble](https://dribbble.com/session/new)
