@@ -4,16 +4,17 @@
   <img alt="Version" src="https://resh.com.br/static/img/resh.png" width="15%" height="15%" />
 </p>
 
-
 ## Your Task
 
 Your task is to create a registration form using Django. We estimate this will take 4-5 hours for a person who is familiar with the technology stack. The application skeleton and instructions are well prepared, but expect extra 5-8 hours if you are not familiar with Django or React. The technology stack is the same that you will be using in when working us.
 
-#### Features
+#### Functional requirements
 * Create account
 * Login
 * Logout
 * Change email or password
+
+#### Requirements
 
 ### Back-end
 
@@ -21,6 +22,8 @@ Your task is to create a registration form using Django. We estimate this will t
 
 ### Front-end
 You can develop frond-end using React or native Django Template Render.
+
+
 
 
 ## How your exercise submission will be ranked
