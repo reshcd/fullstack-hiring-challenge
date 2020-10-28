@@ -6,7 +6,7 @@
 
 ## Your Task
 
-Your task is to create a simple CRUD application using Django. We estimate this will take 4-5 hours for a person who is familiar with the technology stack. The application skeleton and instructions are well prepared, but expect extra 5-8 hours if you are not familiar with Django or React. The technology stack is the same that you will be using in when working us.
+Your task is to create a simple application using Django. We estimate this will take 4-5 hours for a person who is familiar with the technology stack. However, expect extra 3-4 hours if you are not familiar with Django or React. The technology stack is the same that you will be using in when working us.
 
 #### Functional requirements
 * Create account
@@ -18,7 +18,7 @@ Your task is to create a simple CRUD application using Django. We estimate this 
 ## Back-end
 You should develop the back-end using Django. APIs can be served through Django Rest Framework, feel free to choose what you think it's better. Your Django App should be able to receive requests to support all the requirements.
 
-
+It's important to you follow the REST principles, respecting HTTP protocol and using properly return codes and HTTP methods. Also, all communications should use JSON.
 
 
 ## Front-end
@@ -32,7 +32,7 @@ This page should display the user email and password (with \*). Also, users shou
 
 ## Optional tasks
 * Validate user input on the browser and on the server
-* Use PostgreSQL
+* Use uuid instead pk for user identification
 * Add end-to-end tests
 * Apply CSRF Protection
 * Implement Security patterns
