@@ -6,7 +6,7 @@
 
 ## Your Task
 
-Your task is to create a simple application using Django. We estimate this will take 4-5 hours for a person who is familiar with the technology stack. However, expect extra 3-4 hours if you are not familiar with Django or React. The technology stack is the same that you will be using in when working us.
+Your task is to create a simple application using Django. We estimate this will take 2-3 hours for a person who is familiar with the technology stack. However, expect extra 3-4 hours if you are not familiar with Django or React. The technology stack is the same that you will be using in when working us.
 
 #### Functional requirements
 * Create account
