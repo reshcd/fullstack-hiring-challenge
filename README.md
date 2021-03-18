@@ -1,7 +1,7 @@
 <h1 align="center">Work with us!</h1>
 
 <p align="center">
-  <img alt="Version" src="https://resh.com.br/static/img/resh.png" width="15%" height="15%" />
+  <img alt="Version" src="https://resh.com.br/wp-content/uploads/2021/01/logo-dark-novo-1.png" width="15%" height="15%" />
 </p>
 
 ## Your Task
