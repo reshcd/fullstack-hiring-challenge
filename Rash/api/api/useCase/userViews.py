@@ -44,7 +44,7 @@ def list_usersID_by_email(request, email):
 def create_user(request):
     try:
         validate = createUserValidate(request.data)  
-
+        print(validate)
         if(validate == True):
             data = request.data
             data['password'] = stringToB64(data['password'])
