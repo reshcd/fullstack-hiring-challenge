@@ -1,0 +1,39 @@
+@import "~bootstrap/scss/bootstrap";
+
+.container {
+  padding: 2rem 0rem;
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+}
+
+h4 {
+  margin: 2rem 0rem 1rem;
+}
+
+.table-image {
+
+  td,
+  th {
+    vertical-align: middle;
+  }
+}
+
+.button-left {
+  display: flex;
+  align-self: flex-start;
+  justify-content: left;
+}
+
+.my-custom-scrollbar {
+  position: relative;
+  height: 200px;
+  overflow: auto;
+}
+
+.table-wrapper-scroll-y {
+  display: flex;
+  justify-self: start;
+  align-items: flex-start;
+  width: 80vw;
+  height: 80vh;
+}
